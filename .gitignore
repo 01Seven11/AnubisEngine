@@ -1,1 +1,23 @@
+# Build directories
 /AnubisEngine/x64/
+x64/
+x86/
+
+# Visual Studio files
+*.exe
+*.pdb
+*.dll
+*.vcxproj.filters
+*.vcxproj.user
+*.sln.DotSettings.user
+
+# IDE files
+.idea/
+*.iml
+
+# Log files
+*.log
+logs/
+
+# Compliled Slang Binaries
+*.spv
